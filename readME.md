@@ -30,6 +30,9 @@
 
     `mongod -dbpath [PATH/TO/DB/DATA]`
 
+    note: if you would like to change the database connection params, go to the [connection](https://github.com/kieransweetman/mongoTp/blob/main/config/database.py#L34) method
+    
+
 ---
 
 5. run 
