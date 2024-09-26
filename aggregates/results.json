@@ -1,0 +1,234 @@
+{
+    "top_rated_directors": [
+        {
+            "name": "Alper Caglar",
+            "average_rating": 9.5
+        },
+        {
+            "name": "Morgan Neville",
+            "average_rating": 8.7
+        },
+        {
+            "name": "Yann Arthus-Bertrand",
+            "average_rating": 8.7
+        },
+        {
+            "name": "Lilibet Foster",
+            "average_rating": 8.7
+        },
+        {
+            "name": "Cullen Hoback",
+            "average_rating": 8.6
+        }
+    ],
+    "longest_movies_directors": [
+        {
+            "name": "Lav Diaz",
+            "average_duration": 235.66666666666666
+        },
+        {
+            "name": "Ron Maxwell",
+            "average_duration": 219.0
+        },
+        {
+            "name": "Yann Arthus-Bertrand",
+            "average_duration": 190.0
+        },
+        {
+            "name": "Neeraj Pandey",
+            "average_duration": 184.0
+        },
+        {
+            "name": "Lorraine Ashbourne",
+            "average_duration": 180.0
+        }
+    ],
+    "most_movies_directors": [
+        {
+            "name": "Ridley Scott",
+            "movie_count": 15
+        },
+        {
+            "name": "Clint Eastwood",
+            "movie_count": 15
+        },
+        {
+            "name": "Steven Spielberg",
+            "movie_count": 14
+        },
+        {
+            "name": "Steven Soderbergh",
+            "movie_count": 12
+        },
+        {
+            "name": "Michael Bay",
+            "movie_count": 10
+        }
+    ],
+    "top_actors": [
+        {
+            "movie_count": 34,
+            "movies": [
+                "The Humanity Bureau",
+                "Matchstick Men",
+                "World Trade Center",
+                "Windtalkers",
+                "The Weather Man",
+                "The Sorcerer's Apprentice",
+                "The Frozen Ground",
+                "The Family Man",
+                "The Croods",
+                "Seeking Justice",
+                "Next",
+                "National Treasure: Book of Secrets",
+                "National Treasure",
+                "Lord of War",
+                "Knowing",
+                "Kick-Ass",
+                "Joe",
+                "Gone in Sixty Seconds",
+                "Bad Lieutenant: Port of Call New Orleans",
+                "Astro Boy",
+                "Adaptation.",
+                "USS Indianapolis: Men of Courage",
+                "The Trust",
+                "Vengeance: A Love Story",
+                "Inconceivable",
+                "Outcast",
+                "Left Behind",
+                "Rage",
+                "Dying of the Light",
+                "Dog Eat Dog",
+                "Looking Glass",
+                "Ghost Rider",
+                "Drive Angry",
+                "Ghost Rider: Spirit of Vengeance"
+            ]
+        },
+        {
+            "movie_count": 28,
+            "movies": [
+                "The Hitman's Bodyguard",
+                "Life",
+                "Criminal",
+                "Deadpool",
+                "Paper Man",
+                "Mississippi Grind",
+                "Self/less",
+                "X-Men Origins: Wolverine",
+                "Woman in Gold",
+                "Waiting...",
+                "Van Wilder: Party Liaison",
+                "Turbo",
+                "The Voices",
+                "The Proposal",
+                "The Croods",
+                "The Change-Up",
+                "The Amityville Horror",
+                "Smokin' Aces",
+                "Safe House",
+                "Just Friends",
+                "Definitely, Maybe",
+                "Chaos Theory",
+                "Buried",
+                "Adventureland",
+                "R.I.P.D.",
+                "Green Lantern",
+                "The Captive",
+                "Deadpool 2"
+            ]
+        },
+        {
+            "movie_count": 26,
+            "movies": [
+                "All the Money in the World",
+                "Daddy's Home 2",
+                "Patriots Day",
+                "Deepwater Horizon",
+                "Daddy's Home",
+                "Ted 2",
+                "We Own the Night",
+                "The Perfect Storm",
+                "The Other Guys",
+                "The Lovely Bones",
+                "The Italian Job",
+                "The Gambler",
+                "The Fighter",
+                "Ted",
+                "Shooter",
+                "Rock Star",
+                "Pain & Gain",
+                "Lone Survivor",
+                "Invincible",
+                "Four Brothers",
+                "Date Night",
+                "Contraband",
+                "Broken City",
+                "2 Guns",
+                "Transformers: The Last Knight",
+                "Transformers: Age of Extinction"
+            ]
+        },
+        {
+            "movie_count": 26,
+            "movies": [
+                "The Great Wall",
+                "Jason Bourne",
+                "The Informant!",
+                "The Martian",
+                "We Bought a Zoo",
+                "True Grit",
+                "The Monuments Men",
+                "The Good Shepherd",
+                "The Departed",
+                "The Bourne Ultimatum",
+                "The Bourne Supremacy",
+                "The Bourne Identity",
+                "The Adjustment Bureau",
+                "Syriana",
+                "Spirit: Stallion of the Cimarron",
+                "Promised Land",
+                "Margaret",
+                "Invictus",
+                "Inside Job",
+                "Hereafter",
+                "Green Zone",
+                "Elysium",
+                "Contagion",
+                "Behind the Candelabra",
+                "Downsizing",
+                "Suburbicon"
+            ]
+        },
+        {
+            "movie_count": 25,
+            "movies": [
+                "The Wizard of Lies",
+                "Hands of Stone",
+                "Joy",
+                "The Intern",
+                "15 Minutes",
+                "Heist",
+                "The Score",
+                "The Good Shepherd",
+                "The Family",
+                "Silver Linings Playbook",
+                "Righteous Kill",
+                "Red Lights",
+                "Men of Honor",
+                "Meet the Parents",
+                "Meet the Fockers",
+                "Machete",
+                "Last Vegas",
+                "Killer Elite",
+                "Grudge Match",
+                "Everybody's Fine",
+                "Being Flynn",
+                "Dirty Grandpa",
+                "Killing Season",
+                "The Big Wedding",
+                "The Comedian"
+            ]
+        }
+    ]
+}
