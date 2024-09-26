@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import Optional
 from pymongo.collection import Collection
 from config.database_injectable import DatabaseInjectable
 from pymongo.results import InsertOneResult

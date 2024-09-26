@@ -1,17 +1,7 @@
-from models.document import Document
-from dataclasses import dataclass
-from typing import List
 
-from config.database_injectable import DatabaseInjectable
-from typing import List, Optional
-from pymongo.collection import Collection
-from config.database_injectable import DatabaseInjectable
-from pymongo.results import InsertOneResult
 from utils.AbstractManager import AbstractManager
 from models.movie import MovieManager
 from pymongo.database import Database as MongoDatabase
-
-
 
 
 class Director():
@@ -43,7 +33,6 @@ class Director():
             {"$match": {"director": id}},
             {"$group": {"_id": id, "avg": {"$avg": "$rating"}}}
         ]).to_list()
-
 
 
 

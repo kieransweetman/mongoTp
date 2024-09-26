@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-from models.document import Document
 from typing import List
 
 from utils.AbstractManager import AbstractManager

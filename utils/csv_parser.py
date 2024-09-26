@@ -1,11 +1,9 @@
 from models.movie import Movie
-from typing import List
 from datetime import datetime
 from models.director import Director
 from config.database_injectable import DatabaseInjectable
 from models.director import DirectorManager
 from models.movie import MovieManager
-from utils.AbstractManager import AbstractManager
 
 class CsvParser(DatabaseInjectable):
     
@@ -34,7 +32,6 @@ class CsvParser(DatabaseInjectable):
             return CsvParser.director_manager.save(director).inserted_id
             
         return existing_dir["_id"]
-    
             
         
     @staticmethod
